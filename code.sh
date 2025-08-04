@@ -11,8 +11,8 @@ sudo yum install -y nodejs
 sudo npm install -g pm2 
 
 # Define variables 
-REPO_URL="https://github.com/learnItRightWay01/react-node-mysql-app.git" 
-BRANCH_NAME="feature/add-logging" 
+REPO_URL="https://github.com/richardaguirre1/react-node-mysql-app.git" 
+BRANCH_NAME="main" 
 REPO_DIR="/home/ec2-user/react-node-mysql-app/backend" 
 ENV_FILE="$REPO_DIR/.env" 
 
